@@ -2,9 +2,9 @@
 # Election Analysis
 
 ## Project Overview 
-You have been given the task of completeling an election audit of a recnt local congressional election 
+I have been given the task of completeling an election audit of a recnt local congressional election 
 
-You were asked to do the following 
+I was asked to do the following 
 1. Get a complete list of candidates who received votes 
 2. Calculate the following 
   a. total number of votes cast
@@ -28,7 +28,7 @@ The analysis of the election shows that:
   - Charles Casper Stockham received 23.0% of the votes (85,213)
   - Diana DeGette received 73.8% of the votes (272,892)
   - Raymon Anthony Doane received 3.1% of the votes (11,606)
-- The winner was 
+- The winner was Diana Degette with 272,892 votes.
 
 ## Software output: 
 
