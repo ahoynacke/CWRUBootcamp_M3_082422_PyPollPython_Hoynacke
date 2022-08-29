@@ -2,15 +2,15 @@
 # Election Analysis
 
 ## Project Overview 
-I have been given the task of completeling an election audit of a recnt local congressional election 
+I have been given the task of completing an election audit of a recnt local congressional election. 
 
-I was asked to do the following 
-1. Get a complete list of candidates who received votes 
-2. Calculate the following 
+I was asked to do the following:
+1. Get a complete list of candidates who received votes.
+2. Calculate the following:
   a. total number of votes cast
   b. total number of votes each candidate received 
-  c. percwnt of votes each candidate won 
-3. Who won 
+  c. percent of votes each candidate won 
+3. Determine who won.
 
 ## Resources 
 
@@ -20,7 +20,7 @@ Software: Python, Visual Studio Code
 ## Summary 
 The analysis of the election shows that:
 - There were 369,711 votes cast in total.
-- The Canidates who ran were: 
+- The canidates who ran were: 
   1. Charles Casper Stockham
   2. Diana DeGette
   3. Raymon Anthony Doane
